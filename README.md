@@ -1,30 +1,6 @@
-# Responsive Quiz App Using Spring Boot
+<img width="1918" height="891" alt="1  home" src="https://github.com/user-attachments/assets/24e348d8-f58e-41a7-a03d-4b50a52972ee" />
 
-MCQ based quiz application using Spring Boot, Spring Data JPA, MySQL, Thymeleaf and Bootstrap 5.
-This project was made as a part of my channel's Spring Boot Tutorial series in Bangla.
-
-##### Check the video tutorial here: [Spring Boot Quiz App](https://youtu.be/BqLl7mckWv8)
-
----
-
-### Start Page
-
-![Start Page](https://raw.githubusercontent.com/DevRezaur/spring-boot-quiz-app/main/screenshots/Start%20Page.PNG)
-
-### Quiz Page
-
-![Quiz Page 1](https://raw.githubusercontent.com/DevRezaur/spring-boot-quiz-app/main/screenshots/Quiz%20Page%201.PNG)
-
-![Quiz Page 2](https://raw.githubusercontent.com/DevRezaur/spring-boot-quiz-app/main/screenshots/Quiz%20Page%202.PNG)
-
-### Result Page
-
-![Result Page](https://raw.githubusercontent.com/DevRezaur/spring-boot-quiz-app/main/screenshots/Result%20Page.PNG)
-
-### Score Board
-
-![Score Board](https://raw.githubusercontent.com/DevRezaur/spring-boot-quiz-app/main/screenshots/Score%20Board.PNG)
-
----
-
-### Have a nice day
+<img width="1890" height="857" alt="2 1 Quiz" src="https://github.com/user-attachments/assets/cc8c132a-dde9-4607-95aa-9bd29e9757ce" />
+<img width="1887" height="881" alt="2 2 quiz" src="https://github.com/user-attachments/assets/f032e8f0-69b5-4bc3-96ab-395b9b5dda09" />
+<img width="1897" height="870" alt="3  score" src="https://github.com/user-attachments/assets/7a747c6e-7bbe-4fe6-aee3-f9f2cb638a92" />
+<img width="1907" height="886" alt="4  score" src="https://github.com/user-attachments/assets/fe2b41a6-30ed-4774-85d2-62e9677eaaf5" />
